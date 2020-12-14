@@ -1,6 +1,6 @@
 🎨 [Qiita](https://qiita.com/ohayota)
 
-🎨 [NEORT](https://neort.io/latest)
+🎨 [NEORT](https://neort.io/@ohayota)
 
 🎨 [OpenProcessing](https://www.openprocessing.org/user/217988)
 
